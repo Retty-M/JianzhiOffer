@@ -1,5 +1,3 @@
-package JZOffer;
-
 /**
  * Created by retty on 16/5/2.
  * 打印1到最大的n位数

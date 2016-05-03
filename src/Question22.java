@@ -1,9 +1,8 @@
-package JZOffer;
-
 import java.util.Stack;
 
 /**
  * Created by retty on 16/5/3.
+ * 栈的弹出序列是否符合压入序列
  */
 public class Question22 {
 

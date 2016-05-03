@@ -1,5 +1,3 @@
-package JZOffer;
-
 /**
  * Created by retty on 16/5/2.
  * 调整数组使得奇数位于偶数前面

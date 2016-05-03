@@ -1,5 +1,3 @@
-package JZOffer;
-
 /**
  * Created by retty on 16/5/3.
  * 顺时针打印矩阵

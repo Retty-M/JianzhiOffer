@@ -1,7 +1,3 @@
-package JZOffer;
-
-import Tree.TreeNode;
-
 /**
  * Created by retty on 16/5/2.
  * 判断B树是否是A树的子结构
